@@ -1,6 +1,6 @@
-# ElmLol
+# ElmLOL
 
-Do something, anything in Elm.
+Do something, anything with Elm.
 
 ## Setup
 
