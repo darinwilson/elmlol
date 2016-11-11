@@ -8,7 +8,7 @@ Do something, anything with Elm.
   * clone this repo
   * `cd elmlol`
   * `elm-reactor`
-  * point your browser to http://localhost:8000/elmlol.html
+  * point your browser to [http://localhost:8000/elmlol.html](http://localhost:8000/elmlol.html)
 
 ## So what is this exactly?
 
